@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #eef2f7; /* Light background */
-    color: #2c3e50; /* Dark text */
+    background-color: #fdf6e3; /* Soft cream background */
+    color: #2d2d2d; /* Dark gray text */
 }
 
 header {
-    background-color: #1e3a8a; /* Deep blue */
+    background-color: #006d77; /* Teal */
     color: #ffffff; /* White text */
     text-align: center;
     padding: 20px;
@@ -19,7 +19,7 @@ header h1 {
 
 header p,
 header a {
-    color: #dbeafe; /* Light blue text */
+    color: #e0fbfc; /* Light aqua */
     text-decoration: none;
     font-size: 14px;
 }
@@ -39,8 +39,8 @@ section {
 }
 
 h2 {
-    color: #1e40af; /* Bright blue headings */
-    border-bottom: 2px solid #dbeafe; /* Light blue line */
+    color: #008080; /* Teal heading */
+    border-bottom: 2px solid #83c5be; /* Muted aqua line */
     padding-bottom: 5px;
 }
 
@@ -55,7 +55,7 @@ li {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #1e3a8a; /* Deep blue */
+    background-color: #006d77; /* Teal */
     color: #ffffff;
     margin-top: 20px;
 }
@@ -65,5 +65,5 @@ img {
     margin: 20px auto;
     max-width: 150px;
     border-radius: 50%;
-    border: 3px solid #1e40af; /* Blue border */
+    border: 3px solid #008080; /* Teal border */
 }
